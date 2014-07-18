@@ -1,0 +1,23 @@
+{
+  "name": "slo-mo",
+  "version": "0.0.0",
+  "description": "replay request bodies back, in slo-mo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jclem/slo-mo"
+  },
+  "keywords": [
+    "slo-mo"
+  ],
+  "author": "Jonathan Clem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jclem/slo-mo/issues"
+  },
+  "homepage": "https://github.com/jclem/slo-mo"
+}
